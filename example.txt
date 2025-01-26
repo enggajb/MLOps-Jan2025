@@ -1,1 +1,1 @@
-Hello, this is a sample file 
+This is a new text for new branch.
